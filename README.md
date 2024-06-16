@@ -12,15 +12,23 @@ Steps of Implementation :
 3. Developing an API for providing an user interface for humans to find solutions to their problems.
 
 Tech stack and tools used :
+
 1. Python as Programming language
+
    Libraries/Frameworks -:
+
    i) pandas - EDA
+
    ii) transformers - For training GPT-2
+
    iii) streamlit - For API developement
+
    iv) speech_recognition - For speech recognition feature in API
 
-2. i) Azure Machine Learning - For model training
+3. Tools -: i) Azure Machine Learning - For model training
+
    ii) VS Code - For API development
+
    iii) Kaggle - For dataset
 
 ![Screenshot (149)](https://github.com/anu-gtb/Mental_Health_Chatbot/assets/140297541/e4e5eb6b-893a-493d-8233-ffd472c6e209)
