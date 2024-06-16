@@ -8,7 +8,7 @@ Goals of the Project are :
 
 Steps of Implementation :
 1. Data cleaning and preprocessing
-2. Training GPT-2 model with a relevant mental health data consisting of solutions of different types of human mental problems related to many aspects such that relationship, family issues, career, general mental health FAQs, etc.
+2. Training GPT-2 model ina deep learning environment with a relevant mental health data consisting of solutions of different types of human mental problems related to many aspects such that relationship, family issues, career, general mental health FAQs, etc.
 3. Developing an API for providing an user interface for humans to find solutions to their problems.
 
 Tech stack and tools used :
@@ -18,6 +18,8 @@ Tech stack and tools used :
    Libraries/Frameworks -:
 
    i) pandas - EDA
+
+   ii) PyTorch - Deep Learning Framework 
 
    ii) transformers - For training GPT-2
 
