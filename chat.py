@@ -2,7 +2,7 @@ import streamlit as st
 import speech_recognition as sr
 from transformers import GPT2LMHeadModel,GPT2Tokenizer
 
-model_path='C:\\Users\\DELL\\Documents\\CWB_HACK\\chat_model'
+model_path='Mental_Health_Chatbot/model'
 
 st.set_page_config('Mental Health Chatbot')
 
